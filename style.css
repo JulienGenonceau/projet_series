@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Bebas Neue', cursive;
+}
+
+.film_background{
+    height: 50vh;
+    width: 50vh;
+    background-color: orange;
+    margin: 15px;
+    display: flex;
+    border-radius: 5vh;
+    box-shadow: 5px 5px 10px rgb(0, 0, 0, 0.3);
+}
+
+.film_name{
+    color: white;
+    letter-spacing: 1px;
+    font-size: 5vh;
+    margin: auto;
+}
